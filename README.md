@@ -15,7 +15,7 @@
 
 <h2>📺 Skills and Program Demonstration Videos</h2>
 
-- [](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Single Player Pong Game Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)//change links
 - [Appliation Uninstall with Powershell](https://www.youtube.com/watch?v=E2MwRWxDBkA)//change links

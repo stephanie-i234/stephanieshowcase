@@ -20,3 +20,14 @@
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://www.youtube.com/watch?v=E2MwRWxDBkA)//change links
 
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="Stephanie Itulua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/stephanie-i234

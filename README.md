@@ -11,11 +11,11 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Graphing Calculator Simulation with Graphics](https://github.com/joshmadakor1/EncrypterPOC)
   - [Single Player Pong Game with Graphics](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
 
 <h2>📺 Skills and Program Demonstration Videos</h2>
 
-- [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)//change links
 - [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://www.youtube.com/watch?v=E2MwRWxDBkA)//change links

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephanie! <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst</a>, <br/><a href="https://github.com/stephanie-i234">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">Video Editing Hobbyist</a></h1> (we'll see)
+<h1>Hi, I'm Stephanie! <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst and</a> <br/><a href="https://github.com/stephanie-i234">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -9,8 +9,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [Deinstallation via Powershell](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Graphing Calculator Simulation with Graphics](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Single Player Pong Game with Graphics](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Single Player Pong Game with Graphics](https://github.com/stephanie-i234/Single_Player_Pong)
   - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
 
 <h2>📺 Skills and Program Demonstration Videos</h2>

@@ -18,7 +18,7 @@
 - [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)//change links
 - [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
-- [Appliation Uninstall with Powershell](https://www.youtube.com/watch?v=E2MwRWxDBkA)//change links
+- [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
 
 <h2> 🤳 Connect with me:</h2>
 

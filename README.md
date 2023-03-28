@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [Deinstallation via Powershell](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)
 - <b>C# (.NET Desktop Applications)</b>
   - [Single Player Pong Game with Graphics](https://github.com/stephanie-i234/Single_Player_Pong)
   - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
@@ -16,6 +16,7 @@
 
 - [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)//change links
 - [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
+- [Writing Code to Clear Cache on Windows 10](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
 

@@ -16,7 +16,7 @@
 
 - [How to Create, Open, and Write in a Text File (C#)](https://www.youtube.com/watch?v=uHy3oM7NnoU)//change links
 - [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
-- [Writing Code to Clear Cache on Windows 10](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
+- [Writing and Running a script to Clear Cache on Windows 10](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
 

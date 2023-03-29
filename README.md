@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Linux CLI (AlgoExpert)</b>//tbd
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Linux CLI Exercises</b>//tbd
+  - [Praciting Linux Skills](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)

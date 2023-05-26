@@ -5,8 +5,7 @@
 - <b>Linux CLI Exercises</b>//tbd
   - [Praciting Linux Skills](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+ 
   - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)
 - <b>C# (.NET Applications)</b>
   - [Single Player Pong Game with Graphics (C#)](https://github.com/stephanie-i234/Single_Player_Pong)

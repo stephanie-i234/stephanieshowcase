@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Linux CLI Exercises</b>//tbd
+- <b>Linux CLI Exercises</b>(ongoing work)
   - [Praciting Linux Skills](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
  

@@ -11,7 +11,7 @@
   - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
   - [Graphing Calculator (C#)](https://github.com/stephanie-i234/C-Sharp-Calculator)
 
-<h2>📺 Skills and Program Demonstration Videos</h2>
+<h2>📺🎞 Skills and Program Demonstration Videos</h2>
 
 - [Writing and Running a script to Clear Cache on Windows 10](https://youtu.be/zKPJY6Yb17Y)
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)

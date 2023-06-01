@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Linux CLI Exercises</b>(ongoing work)
-  - [Praciting Linux Skills](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Linux Skills](https://github.com/stephanie-i234/Linux-Practice)
 - <b>PowerShell</b>
  
   - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)

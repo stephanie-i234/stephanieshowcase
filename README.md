@@ -5,7 +5,6 @@
 - <b>Linux CLI Exercises</b>(ongoing work)
   - [Praciting Linux Skills](https://github.com/stephanie-i234/Linux-Practice)
 - <b>PowerShell</b>
- 
   - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)
 - <b>C# (.NET Applications)</b>
   - [Single Player Pong Game with Graphics (C#)](https://github.com/stephanie-i234/Single_Player_Pong)
@@ -14,7 +13,6 @@
 
 <h2>📺 Skills and Program Demonstration Videos</h2>
 
-- [VMWare Installation Demonstration](https://www.youtube.com/watch?v=N-L9hklSlNk)//change links
 - [Writing and Running a script to Clear Cache on Windows 10](https://youtu.be/zKPJY6Yb17Y)
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)

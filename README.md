@@ -9,14 +9,14 @@
 - <b>C# (.NET Applications)</b>
   - [Single Player Pong Game with Graphics (C#)](https://github.com/stephanie-i234/Single_Player_Pong)
   - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
-  - [Graphing Calculator (C#)](https://github.com/stephanie-i234/C-Sharp-Calculator)
+  - [Graphic Graphing Calculator (C#)](https://github.com/stephanie-i234/C-Sharp-Calculator)
 
 <h2>📺🎞 Skills and Program Demonstration Videos</h2>
 
 - [Writing and Running a script to Clear Cache on Windows 10](https://youtu.be/zKPJY6Yb17Y)
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
-- [Graphing Calculator Demonstration](//change_links)
+- [Graphics Graphing Calculator Demonstration](//change_links)
 
 <h2> 🤳 Connect with me:</h2>
 

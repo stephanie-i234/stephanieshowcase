@@ -1,13 +1,8 @@
-<h1>Hi, I'm Stephanie!</h1>
-<p>
-  <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst</a><br>
-  <a href="https://github.com/stephanie-i234">C# Developer</a><br>
-  Completed Computer Engineering Technology Coursework
-</p>
+<h1>Hi, I'm Stephanie! <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst and</a> <a href="https://github.com/stephanie-i234">C# Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Linux CLI Exercises</b>(ongoing work)
+- <b>Linux CLI Exercises</b>
   - [Praciting Linux Skills](https://github.com/stephanie-i234/Linux-Practice)
 - <b>PowerShell</b>
   - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)
@@ -22,6 +17,11 @@
 - [Single Player Pong Game Demonstration (C#)](https://youtu.be/6Rio8jxRD-I)
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
 - [Graphics Graphing Calculator Demonstration](//change_links)
+
+<h2>👩‍🏫🎓📝 Education Experiences</h2>
+
+- Completed Computer Engineering coursework from 2021–2024, which helped me gain many of the fundamental skills I apply in my current and upcoming tech roles and projects.
+- Completed IT Analyst certification in 2021, providing a formal introduction to the IT industry and foundational technical skills.
 
 <h2> 🤳 Connect with me:</h2>
 

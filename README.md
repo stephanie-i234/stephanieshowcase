@@ -18,7 +18,7 @@
 - [Appliation Uninstall with Powershell](https://youtu.be/K8rcOuJuIII)
 - [Graphics Graphing Calculator Demonstration](//change_links)
 
-<h2>👩‍🏫🎓📝 Education Experiences</h2>
+<h2>👩‍🏫🎓📝 Educational Experiences</h2>
 
 - Completed Computer Engineering coursework from 2021–2024, which helped me gain many of the fundamental skills I apply in my current and upcoming tech roles and projects.
 - Completed IT Analyst certification in 2021, providing a formal introduction to the IT industry and foundational technical skills.

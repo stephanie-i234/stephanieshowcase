@@ -1,4 +1,9 @@
-<h1>Hi, I'm Stephanie! <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst and</a> <br/><a href="https://github.com/stephanie-i234">Programmer</a>
+<h1>Hi, I'm Stephanie!</h1>
+<p>
+  <a href="https://www.linkedin.com/in/stephanie-i234">IT Analyst</a><br>
+  <a href="https://github.com/stephanie-i234">C# Developer</a><br>
+  Completed Computer Engineering Technology Coursework
+</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,7 +13,7 @@
   - [Cache Clearing via Powershell](https://github.com/stephanie-i234/PowerShell-Cache-Clearing-)
 - <b>C# (.NET Applications)</b>
   - [Single Player Pong Game with Graphics (C#)](https://github.com/stephanie-i234/Single_Player_Pong)
-  - [Keylogger (C#)](https://github.com/stephanie-i234/Keylogger)
+  - [Keyboard Input Logger (C#)](https://github.com/stephanie-i234/keyboard-input-logger)
   - [Graphic Graphing Calculator (C#)](https://github.com/stephanie-i234/C-Sharp-Calculator)
 
 <h2>📺🎞 Skills and Program Demonstration Videos</h2>
